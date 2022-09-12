@@ -1,4 +1,6 @@
 # AMUSE
-Tutorials in branch master\n
-Xueyang Hu\n
+Tutorials in branch master
+
+Xueyang Hu
+
 s2788322
